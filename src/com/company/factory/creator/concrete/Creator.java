@@ -1,7 +1,7 @@
-package com.company.factory.factorymethod.creator.concrete;
+package com.company.factory.creator.concrete;
 
-import com.company.factory.factorymethod.creator.base.AbstractCreator;
-import com.company.factory.factorymethod.product.base.AbstractProduct;
+import com.company.factory.creator.base.AbstractCreator;
+import com.company.factory.product.base.AbstractProduct;
 
 /**
  * description :

@@ -1,6 +1,6 @@
-package com.company.factory.factorymethod.creator.base;
+package com.company.factory.creator.base;
 
-import com.company.factory.factorymethod.product.base.AbstractProduct;
+import com.company.factory.product.base.AbstractProduct;
 
 /**
  * description :

@@ -1,4 +1,4 @@
-package com.company.factory.factorymethod.product.base;
+package com.company.factory.product.base;
 
 /**
  * description :

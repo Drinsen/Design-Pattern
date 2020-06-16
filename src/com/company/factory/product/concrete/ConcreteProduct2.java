@@ -1,6 +1,6 @@
-package com.company.factory.factorymethod.product.concrete;
+package com.company.factory.product.concrete;
 
-import com.company.factory.factorymethod.product.base.AbstractProduct;
+import com.company.factory.product.base.AbstractProduct;
 
 /**
  * description :
